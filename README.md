@@ -23,7 +23,7 @@ Manages the player's score and displays it on the screen, updating it based on g
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/turtle-crossing.git
+   git clone https://github.com/jeffgrahamcodes/turtle-crossing.git
    cd turtle-crossing
    ```
 2. Run the game:
