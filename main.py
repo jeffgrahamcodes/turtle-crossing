@@ -18,9 +18,7 @@ screen.listen()
 screen.onkey(player.move_forward, "Up")
 
 game_is_on = True
-counter = 0
 while game_is_on:
-    counter += 1
     time.sleep(0.1)
     screen.update()
 
